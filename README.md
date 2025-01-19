@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @ameen
-- 👀 I’m interested in python programming
-- 🌱 I’m currently learning Django framework
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🎓 B.Tech in Computer Science | 🖥️ Software Developer | 🌍 Kerala, India
+I’m a passionate developer with 2.5 years of experience in Odoo development and a strong foundation in Python and C programming.
+💻 Tech Stack
+Languages:
+  Python 🐍
+  C
+  SQL
+Frameworks & Tools:
 
-<!---
-ameen8139006285/ameen8139006285 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Back-End Development: Django, FastAPI
+ERP Development: Odoo
+Frontend: HTML, CSS, JavaScript
+Others: Git, Docker, RESTful APIs
+Databases:
+  PostgreSQL
+  MySQL
+
